@@ -6,3 +6,4 @@ zheng.huang@ndsu.com
 connect to remote 
 //hello I want to change it
 // I want to test fetching
+// I want to test feching again using git log
