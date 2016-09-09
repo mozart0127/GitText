@@ -1,4 +1,7 @@
+//add  the ndsu name
 ndsu
 //add the email address
 zheng.huang@ndsu.com
+// try to connect to remote
+connect to remote 
 
